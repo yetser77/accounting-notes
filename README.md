@@ -51,8 +51,8 @@ Center, Café Creme — S. Dion & A. Boucher
 3. Posting
 4. Trial Balance
 5. Worksheet
-6. Financial Statements
-7. Adjusting & Closing Entries
+6. Adjusting & Closing Entries
+7. Financial Statements
 8. Post Closing Trial Balance
 
 ##### Transactions Occur
